@@ -1,0 +1,2 @@
+# Aacharya
+AI teaching copilot 
